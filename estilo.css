@@ -1,5 +1,5 @@
 body {
-    background-color: #c6d9ee;
+    background-color: #224369;
     font-family: sans-serif;
     text-align: justify;
 }
@@ -21,21 +21,21 @@ p {
 }
 
 strong {
-    color: chocolate;
+    color: rgb(204, 119, 58);
 }
 
 em {
-    background-color: white;
-    color: green;
+    background-color: rosybrown;
+    color: forestgreen;
 }
 
 span {
-    color: red;
+    color: salmon;
     font-family: "Comic Sans", cursive;
 }
 
 time {
-    color: darkorange;
+    color: darkmagenta;
 }
 
 address {
